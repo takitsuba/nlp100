@@ -1,0 +1,2 @@
+cat data/popular-names-11.txt | cut -d ' ' -f 1 > data/col1.txt
+cat data/popular-names-11.txt | cut -d ' ' -f 2 > data/col2.txt
